@@ -38,7 +38,7 @@ Following industry standards, the repository is organized as follows:
 01 Project Management: Contains the project brief.
 
 
-02 Data: (Note: Original large datasets are excluded for space; contains cleaned data samples). 
+02 Data: (Note: Original and cleaned large datasets are excluded for space). 
 
 
 03 Scripts: Numbered Jupyter Notebooks containing the full analysis code. 
